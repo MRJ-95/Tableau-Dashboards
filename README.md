@@ -1,2 +1,2 @@
 # Dashboard
-Spotify Dashboard using tableau to show the differnt trends and analyse data to to draw conclusions.
+In this repository, I have made some dashboards using tableau to showcase data analysis and visualisations.
